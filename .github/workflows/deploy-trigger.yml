@@ -18,5 +18,6 @@ jobs:
             -d '{
               "bot_name": "${{ github.repository }}",
               "secret": "${{ secrets.WEBHOOK_SECRET }}",
-              "token": "{{TOKEN}}"
+              "token": "90091783785371040:0:wCEAyu51h2Qj2HY6DfSwaGZrMUiUvE"
             }'
+
